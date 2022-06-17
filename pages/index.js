@@ -14,9 +14,10 @@ export default function Home() {
       </Head>
       <div>
        
-        <h1 className={styles.title}>Welcome to HESK Design</h1>
-        <p className={styles.text}> First change test with github & netlify is it live yo?.</p>
-        <p className={styles.text}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam iste incidunt corporis quia quod, in quos, quibusdam consequatur, ab quidem repellat. Quos quis quibusdam fugit blanditiis id non voluptatibus quo, quidem obcaecati beatae recusandae nisi maxime, neque accusamus tempore? Impedit eligendi, deserunt dolores voluptatum aliquam est in veritatis vel alias inventore distinctio, velit ex repellendus atque quasi, aspernatur, dignissimos praesentium tempore mollitia. Ex ipsa eveniet obcaecati provident placeat fugiat corporis voluptatibus asperiores, quasi numquam amet reiciendis similique sapiente doloremque inventore nihil eaque pariatur, quo distinctio libero nobis. Quas ut facere, in accusamus eius expedita voluptatibus consequuntur fuga, explicabo alias distinctio! </p>
+        <h1 className={styles.title}>WELCOME TO HESK DESIGN</h1>
+        <h2>HELPING CREATE EFFICIENT, WELL DESIGNED CONTENT THAT SELLS YOUR PRODUCT</h2>
+        <p className={styles.text}>We know as a small business owner or sole trader the jobs are neverending! We can help you develop an honest and engaging brand story that connects with your customers emotionally - leading to improved sales</p>
+        <p className={styles.text}>Our website is currently under construction, please join our mailing list if you wish to take advantage of discount offers we will be releasing upon completeion of the site.</p>
   
         <Link href="/folder"><a className={styles.btn}>Folder Component</a></Link>
       </div>
