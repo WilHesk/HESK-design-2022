@@ -14,10 +14,10 @@
 .btn {
   display: block;
   width: 150px;
-  padding: 8px 8px;
+  padding: 8px 12px;
   margin: 20px auto;
-  background: #4979ff;
+  background: #ED3639;
   border-radius: 4px;
   color: white;
-  text-align: center;
+  text-align: left;
 }
