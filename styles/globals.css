@@ -18,7 +18,7 @@ nav {
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ED3639;
 }
 nav a {
   margin-left: 12px;
@@ -38,4 +38,17 @@ footer {
 
 .not-found {
   text-align: center;
+}
+
+H1 {
+  color: #333;
+  font-family: "poppins";
+  font-size: 25px;
+}
+
+H2 {
+  color: #333;
+  font-family: "poppins";
+  font-size: 15px;
+
 }
